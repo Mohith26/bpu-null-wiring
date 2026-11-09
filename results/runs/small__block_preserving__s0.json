@@ -1,0 +1,1 @@
+{"regime": "small", "condition": "block_preserving", "seed": 0, "test_acc": 0.9156, "trainable": 339740, "seconds": 11.6, "n_train": 2000, "epochs": 30, "signed": true}

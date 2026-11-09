@@ -1,0 +1,1 @@
+{"regime": "full", "condition": "frozen_mlp", "seed": 0, "test_acc": 0.9748, "trainable": 339740, "seconds": 1.7, "n_train": 60000, "epochs": 5, "signed": true}

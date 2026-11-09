@@ -1,0 +1,1 @@
+{"regime": "unsigned", "condition": "degree_preserving", "seed": 0, "test_acc": 0.9623, "trainable": 339740, "seconds": 38.3, "n_train": 60000, "epochs": 5, "signed": false}

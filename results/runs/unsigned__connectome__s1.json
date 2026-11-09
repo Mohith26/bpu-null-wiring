@@ -1,0 +1,1 @@
+{"regime": "unsigned", "condition": "connectome", "seed": 1, "test_acc": 0.9724, "trainable": 339740, "seconds": 29.2, "n_train": 60000, "epochs": 5, "signed": false}

@@ -1,0 +1,1 @@
+{"regime": "full", "condition": "erdos_renyi", "seed": 2, "test_acc": 0.9694, "trainable": 339740, "seconds": 35.0, "n_train": 60000, "epochs": 5, "signed": true}

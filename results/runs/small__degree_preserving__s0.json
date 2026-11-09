@@ -1,0 +1,1 @@
+{"regime": "small", "condition": "degree_preserving", "seed": 0, "test_acc": 0.9189, "trainable": 339740, "seconds": 9.8, "n_train": 2000, "epochs": 30, "signed": true}

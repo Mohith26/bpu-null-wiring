@@ -1,0 +1,1 @@
+{"regime": "full", "condition": "connectome", "seed": 1, "test_acc": 0.9693, "trainable": 339740, "seconds": 32.4, "n_train": 60000, "epochs": 5, "signed": true}

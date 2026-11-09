@@ -1,0 +1,1 @@
+{"regime": "small", "condition": "connectome", "seed": 0, "test_acc": 0.9173, "trainable": 339740, "seconds": 7.4, "n_train": 2000, "epochs": 30, "signed": true}

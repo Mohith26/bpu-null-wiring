@@ -1,0 +1,1 @@
+{"regime": "full", "condition": "block_preserving", "seed": 2, "test_acc": 0.9708, "trainable": 339740, "seconds": 37.2, "n_train": 60000, "epochs": 5, "signed": true}

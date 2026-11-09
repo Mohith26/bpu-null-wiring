@@ -1,0 +1,1 @@
+{"regime": "small", "condition": "frozen_mlp", "seed": 0, "test_acc": 0.9202, "trainable": 339740, "seconds": 0.4, "n_train": 2000, "epochs": 30, "signed": true}
